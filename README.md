@@ -16,7 +16,7 @@ These data-files are derived from **[encode/starlette-example](https://github.co
 
 ## License
 
-**These files are licensed under [Multi-licensing](#license):**
+**These files are licensed under [Multi-licensing](https://github.com/abhiTronix/webgear_data/blob/master/LICENSE):**
 
 - `.html` and `.png` files are licensed under [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 - `jquery-3.4.1.slim.min.js`, `popper.min.js`, `bootstrap.min.js`, `cover.css` & `bootstrap.min.css` are licensed under [MIT License](https://opensource.org/licenses/MIT).
